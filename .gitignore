@@ -1,0 +1,6 @@
+#Visual Studio files
+.vscode/*
+
+
+#Git files
+.idea/*
