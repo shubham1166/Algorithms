@@ -4,3 +4,7 @@
 
 #Git files
 .idea/*
+
+
+#Other Python files
+test.py
